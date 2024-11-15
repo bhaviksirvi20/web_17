@@ -148,7 +148,7 @@
     height: 120vh;
     width: 100%;
     /* background-color: rgb(149, 0, 0); */
-    background-image: url(./watch.png);
+    background-image: url(./assets/watch.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -210,7 +210,7 @@
     height: 70vh;
     width: 100%;
     /* background-color: rgb(255, 0, 0); */
-    background-image: url(./new_product1.png);
+    background-image: url(./assets/new_product1.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -221,7 +221,7 @@
     height: 70vh;
     width: 100%;
     /* background-color: rgb(255, 0, 0); */
-    background-image: url(./new_product2.png);
+    background-image: url(./assets/new_product2.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -233,7 +233,7 @@
     height: 70vh;
     width: 100%;
     /* background-color: rgb(255, 0, 0); */
-    background-image: url(./new_product3.png);
+    background-image: url(./assets/new_product3.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -295,7 +295,7 @@ span {
     height: 80vh;
     width: 48.5%;
     /* background-color: rgb(47, 0, 92); */
-    background-image: url(./gallery1.png);
+    background-image: url(./assets/gallery1.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -326,7 +326,7 @@ span {
     height: 80vh;
     width: 46.5%;
     /* background-color: rgb(18, 104, 87); */
-    background-image: url(./gallery2.png);
+    background-image: url(./assets/gallery2.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -355,7 +355,7 @@ span {
     height: 37.2vh;
     width: 100%;
     /* background-color: rgb(64, 255, 0); */
-    background-image: url(./gallery3.png);
+    background-image: url(./assets/gallery3.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -381,7 +381,7 @@ span {
     width: 100%;
     /* background-color: rgb(255, 0, 183); */
     position: absolute;
-    background-image: url(./gallery4.png);
+    background-image: url(./assets/gallery4.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -461,7 +461,7 @@ span {
     height: 48vh;
     width: 100%;
     /* background-color: rgb(134, 134, 255); */
-    background-image: url(./popular1.png);
+    background-image: url(./assets/popular1.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -472,7 +472,7 @@ span {
     height: 48vh;
     width: 100%;
     /* background-color: rgb(134, 134, 255); */
-    background-image: url(./popular2.png);
+    background-image: url(./assets/popular2.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -483,7 +483,7 @@ span {
     height: 48vh;
     width: 100%;
     /* background-color: rgb(134, 134, 255); */
-    background-image: url(./popular3.png);
+    background-image: url(./assets/popular3.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -542,7 +542,7 @@ span {
     height: 48vh;
     width: 100%;
     /* background-color: rgb(134, 134, 255); */
-    background-image: url(./popular4.png);
+    background-image: url(./assets/popular4.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -553,7 +553,7 @@ span {
     height: 48vh;
     width: 100%;
     /* background-color: rgb(134, 134, 255); */
-    background-image: url(./popular5.png);
+    background-image: url(./assets/popular5.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -564,7 +564,7 @@ span {
     height: 48vh;
     width: 100%;
     /* background-color: rgb(134, 134, 255); */
-    background-image: url(./popular6.png);
+    background-image: url(./assets/popular6.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -602,7 +602,7 @@ span {
     height: 100vh;
     width: 100%;
     background-color: burlywood;
-    background-image: url(./sectin_bg1.png);
+    background-image: url(./assets/sectin_bg1.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -735,7 +735,7 @@ span {
     height: 80vh;
     width: 50%;
     /* background-color: rgb(230, 0, 255); */
-    background-image: url(./choce_watch1.png);
+    background-image: url(./assets/choce_watch1.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -745,7 +745,7 @@ span {
     height: 80vh;
     width: 50%;
     /* background-color: rgb(230, 0, 255); */
-    background-image: url(./choce_watch2.png);
+    background-image: url(./assets/choce_watch2.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
